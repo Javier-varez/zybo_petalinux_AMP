@@ -2083,7 +2083,7 @@ CONFIG_run-postinsts=y
 #
 # open-amp 
 #
-# CONFIG_open-amp is not set
+CONFIG_open-amp=y
 # CONFIG_open-amp-dbg is not set
 # CONFIG_open-amp-dev is not set
 
@@ -2729,7 +2729,7 @@ CONFIG_packagegroup-core-ssh-dropbear=y
 #
 # packagegroup-petalinux-openamp 
 #
-# CONFIG_packagegroup-petalinux-openamp is not set
+CONFIG_packagegroup-petalinux-openamp=y
 # CONFIG_packagegroup-petalinux-openamp-dbg is not set
 # CONFIG_packagegroup-petalinux-openamp-dev is not set
 
